@@ -76,7 +76,7 @@ lab9c3:
 
 lab10a1:
 
-lab10a2:
+lab10a2:https://github.com/Prajwalsv/Advance_Java_Lab_Programs/blob/main/lab10a2.png
 
 lab10b1:
 
