@@ -14,49 +14,55 @@ lab3b:https://github.com/Prajwalsv/Advance_Java_Lab_Programs/blob/main/lab3b.png
  
 lab3c:https://github.com/Prajwalsv/Advance_Java_Lab_Programs/blob/main/lab3c.png
 
-lab4a:
+lab4a:https://github.com/Prajwalsv/Advance_Java_Lab_Programs/blob/main/lab4a.png
 
-lab4b:
+lab4b:https://github.com/Prajwalsv/Advance_Java_Lab_Programs/blob/main/lab4b.png
 
-lab4c:
+lab4c:https://github.com/Prajwalsv/Advance_Java_Lab_Programs/blob/main/lab4c.png
 
-lab5a:
+lab5a:https://github.com/Prajwalsv/Advance_Java_Lab_Programs/blob/main/lab5a.png
 
-lab5b1:
+lab5b1:https://github.com/Prajwalsv/Advance_Java_Lab_Programs/blob/main/lab5b1.png
 
-lab5b2:
+lab5b2:https://github.com/Prajwalsv/Advance_Java_Lab_Programs/blob/main/lab5b2.png
 
-lab5b3:
+lab5b3:https://github.com/Prajwalsv/Advance_Java_Lab_Programs/blob/main/lab5b3.png
 
-lab6a1:
+lab5c:https://github.com/Prajwalsv/Advance_Java_Lab_Programs/blob/main/lab5c.png
 
-lab6a2:
+lab5d1:https://github.com/Prajwalsv/Advance_Java_Lab_Programs/blob/main/lab5d1.png
 
-lab6b1:
+lab5d2:https://github.com/Prajwalsv/Advance_Java_Lab_Programs/blob/main/lab5d2.png
 
-lab6b2:
+lab5d3:https://github.com/Prajwalsv/Advance_Java_Lab_Programs/blob/main/lab5d3.png
 
-lab6c1:
+lab6a1:https://github.com/Prajwalsv/Advance_Java_Lab_Programs/blob/main/lab6a1.png
 
-lab6c2:
+lab6a2:https://github.com/Prajwalsv/Advance_Java_Lab_Programs/blob/main/lab6b2.png
 
-lab7a1:
+lab6b1:https://github.com/Prajwalsv/Advance_Java_Lab_Programs/blob/main/lab6c1.png
 
-lab7a2:
+lab6b2:https://github.com/Prajwalsv/Advance_Java_Lab_Programs/blob/main/lab6b2.png
 
-lab7a3:
+lab6c1:https://github.com/Prajwalsv/Advance_Java_Lab_Programs/blob/main/lab6c1.png
 
-lab7b1:
+lab6c2:https://github.com/Prajwalsv/Advance_Java_Lab_Programs/blob/main/lab6c2.png
 
-lab7b1:
+lab7a1:https://github.com/Prajwalsv/Advance_Java_Lab_Programs/blob/main/lab7a1.png
 
-lab7b2:
+lab7a2:https://github.com/Prajwalsv/Advance_Java_Lab_Programs/blob/main/lab7a2.png
 
-lab7b3:
+lab7a3:https://github.com/Prajwalsv/Advance_Java_Lab_Programs/blob/main/lab7a3.png
 
-lab8a1:
+lab7b1:https://github.com/Prajwalsv/Advance_Java_Lab_Programs/blob/main/lab7b1.png
 
-lab8a2:
+lab7b2:https://github.com/Prajwalsv/Advance_Java_Lab_Programs/blob/main/lab7b2.png
+
+lab7b3:https://github.com/Prajwalsv/Advance_Java_Lab_Programs/blob/main/lab7b3.png
+
+lab8a1:https://github.com/Prajwalsv/Advance_Java_Lab_Programs/blob/main/lab8a1.png
+
+lab8a2:https://github.com/Prajwalsv/Advance_Java_Lab_Programs/blob/main/lab8a2.png
 
 lab8b1:
 
