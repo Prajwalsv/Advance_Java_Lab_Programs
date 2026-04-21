@@ -40,7 +40,7 @@ lab6a1:https://github.com/Prajwalsv/Advance_Java_Lab_Programs/blob/main/lab6a1.p
 
 lab6a2:https://github.com/Prajwalsv/Advance_Java_Lab_Programs/blob/main/lab6b2.png
 
-lab6b1:https://github.com/Prajwalsv/Advance_Java_Lab_Programs/blob/main/lab6c1.png
+lab6b1:https:https://github.com/Prajwalsv/Advance_Java_Lab_Programs/blob/main/lab6b1.png
 
 lab6b2:https://github.com/Prajwalsv/Advance_Java_Lab_Programs/blob/main/lab6b2.png
 
